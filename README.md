@@ -35,10 +35,6 @@
   </div>
 
   <hr/>
-
-  <div align="right">
-    <a href="#"><img alt="Shivraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivrajkhetri7&custom_title=Shivraj%20Khetri's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
-  </div>
 </div>
 
 <br/>
